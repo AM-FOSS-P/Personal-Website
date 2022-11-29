@@ -1,0 +1,221 @@
+
+.hero{ width: 100%;
+	   
+	   position: relative;
+	   top: 0;
+	   left: 0; }
+
+.logo{ width: 4%;
+	   
+	   position: absolute;
+	   top: 70px;
+	   left: 130px; }
+
+
+
+
+.home{  position: absolute;
+		top: 70px;
+		right: 900px;
+		font-size: 25px;
+		text-decoration: none;
+		color: white; }
+
+
+.design{ position: absolute;
+		top: 70px;
+		right: 740px;
+		font-size: 25px;
+		text-decoration: none;
+		color: white; }
+
+
+.photography{ position: absolute;
+		top: 70px;
+		right: 500px;
+		font-size: 25px;
+		text-decoration: none;
+		color: white; }
+
+.me{ position: absolute;
+		top: 72px;
+		right: 300px;
+		font-size: 25px;
+		text-decoration: none;
+		color: white;}
+
+
+
+.contact{ position: absolute;
+		top: 72px;
+		right: 110px;
+		font-size: 25px;
+		text-decoration: none;
+		color: white;}
+
+
+
+.intro{ color: white;
+     background: #c13764ff;
+     border-radius: 40px;
+     padding-left: 20px ;
+     padding-right: 20px ;
+     font-size: 60px; 
+ 	 margin-left: 120px;
+ 	 }
+.name{color: white;
+	  margin-left: 120px;
+	  font-family: outfit bold,sans-serif;
+	  font-size: 40px;
+	  line-height: 60px;}
+
+
+.hobby{color: white;
+     background: #c13764ff;
+     border-radius: 40px;
+     padding-left: 20px ;
+     padding-right: 20px ;
+     font-size: 60px; 
+ 	margin-left: 120px;
+ 	
+ 	}
+
+
+
+.tech{ color: white;
+	  margin-left: 120px;
+	  font-family: outfit bold,sans-serif;
+	  font-size: 40px;
+	  line-height: 60px; 
+	  float: left;}
+
+
+
+.tec{width: 100%;
+	   
+	   position: relative;
+	   top: 0;
+	   left: 0;}
+
+
+.d{color: white;
+	  margin-left: 120px;
+	  font-family: outfit bold,sans-serif;
+	  font-size: 40px;
+	  line-height: 60px; 
+	 }
+
+.ink{ color: white;
+	font-family: outfit bold,sans-serif;
+	font-size: 40px;
+	text-align: center;
+	background: #c13764ff;
+	border-radius: 30px;
+	
+	 }
+
+
+.h2{color: white;
+	font-size: 20px;
+    }
+
+.lel{color: white;
+	font-size: 20px;
+	}	
+
+
+
+.pho{color: white;
+	  margin-left: 120px;
+	  font-family: outfit bold,sans-serif;
+	  font-size: 40px;
+	  line-height: 60px; 
+	  float: left;}
+
+
+.soft{color: white;
+     background: #c13764ff;
+     border-radius: 40px;
+     padding-left: 20px ;
+     padding-right: 20px ;
+     font-size: 60px; 
+ 	margin-left: 120px;}
+
+
+
+ .foss{ color: white;
+	  margin-left: 120px;
+	  font-family: outfit bold,sans-serif;
+	  font-size: 40px;
+	  line-height: 60px; 
+	  float: left; }
+
+
+.abt{width: 30%;
+	   
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 70px;
+ 	}
+
+
+ .pp{color: white;
+     background: #c13764ff;
+     border-radius: 40px;
+     padding-left: 20px ;
+     padding-right: 20px ;
+     font-size: 60px; 
+ 	margin-left: 120px;
+     }
+
+
+.cv5{color: white;
+	  margin-left: 120px;
+	  font-family: outfit bold,sans-serif;
+	  font-size: 30px;
+	  line-height: 15px; 
+	 }
+
+
+.caption{color: white;
+     background: #c13764ff;
+     border-radius: 40px;
+     padding-left: 20px ;
+     padding-right: 20px ;
+     font-size: 60px; 
+ 	margin-left: 120px;
+     }
+
+ .edu{ color: white;
+     background: #c13764ff;
+     border-radius: 40px;
+     padding-left: 20px ;
+     padding-right: 20px ;
+     font-size: 60px; 
+ 	margin-left: 120px; }
+
+
+ .board{color: white;
+	  margin-left: 120px;
+	  font-family: outfit bold,sans-serif;
+	  font-size: 40px;
+	  line-height: 15px;
+	  border-radius: 10px;
+	  border-collapse: collapse;
+	  text-align: center;
+	  }
+
+
+.iso{}
+
+
+
+.btnn{background-color: #c13764ff;
+	color: white;
+	 font-family: outfit,sans-serif;
+	  font-size: 30px;
+	  border: 0px;
+	  border-radius: 30px;
+	  padding: 10px 20px;}
+
